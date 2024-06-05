@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShopItFront/static/css/main.7cd96e38.css",
+    "main.js": "/ShopItFront/static/js/main.c3a1c53d.js",
+    "static/js/453.b63074af.chunk.js": "/ShopItFront/static/js/453.b63074af.chunk.js",
+    "index.html": "/ShopItFront/index.html",
+    "main.7cd96e38.css.map": "/ShopItFront/static/css/main.7cd96e38.css.map",
+    "main.c3a1c53d.js.map": "/ShopItFront/static/js/main.c3a1c53d.js.map",
+    "453.b63074af.chunk.js.map": "/ShopItFront/static/js/453.b63074af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd96e38.css",
+    "static/js/main.c3a1c53d.js"
+  ]
+}
